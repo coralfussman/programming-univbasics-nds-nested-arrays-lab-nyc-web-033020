@@ -39,7 +39,7 @@ def sorted_matrix
 
 storage_room = [CONVENTIONAL_PRODUCE.sort!,ORGANIC_PRODUCE.sort!]
 
-sorted_matrix_storage_room
+
 
 end
 
