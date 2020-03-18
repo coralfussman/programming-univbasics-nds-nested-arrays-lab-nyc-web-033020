@@ -37,7 +37,7 @@ def sorted_matrix
    ["Strawberries", "Potatoes", "Grapes", "Avocadoes","Asparagus"]
 ]
 
-sorted_storage_room = storage_room.sort!
+storage_room = [storage_room.sort!]
 
 sorted_matrix_storage_room
 
