@@ -53,6 +53,7 @@ def matrix_lookup(matrix, row, column)
   ]
 
   storage_room[1][1]
+  storage_room = [CONVENTIONAL_PRODUCE.sort!,ORGANIC_PRODUCE.sort!][1][1]
 end
 
 def matrix_update(matrix, row, column, new_value)
