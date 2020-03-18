@@ -51,8 +51,7 @@ def matrix_lookup(matrix, row, column)
      ["Grapefruit", "Pineapple", "Oranges", "Watermelon", "Eggplant"],
      ["Strawberries", "Potatoes", "Grapes", "Avocadoes","Asparagus"]
   ]
-  storage_room = [CONVENTIONAL_PRODUCE.sort!,ORGANIC_PRODUCE.sort!]
-  storage_room
+  
   storage_room[1][1]
 end
 
