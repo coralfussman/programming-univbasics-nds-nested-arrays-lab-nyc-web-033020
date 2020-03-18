@@ -52,7 +52,7 @@ def matrix_lookup(matrix, row, column)
      ["Strawberries", "Potatoes", "Grapes", "Avocadoes","Asparagus"]
   ]
 
-  storage_room[1][3]
+  storage_room[1][1]
 end
 
 def matrix_update(matrix, row, column, new_value)
